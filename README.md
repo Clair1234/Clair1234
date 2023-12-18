@@ -1,14 +1,15 @@
-<body style="background-color:FF5733;"> 
-  <h1>Hi there 👋, I'm Claire</h1>
-</body>
+
+<h1 align="center"> Hi there 👋, I'm Claire </h1>
 
 ### A new developper eager to learn
 
+- 🔭 I’m currently working on the CS50P course's final project
 - 🌱 I’m currently learning Python and JavaScript
 - ⚡ Fun fact: I'm currently in my Master 1 of Engineering, next year I'll specialize in Computer Intelligence for Data Analyics
 
-
-<img src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" alt="Cat gif" title="Cat gif">
+<p align="center">
+  <img src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" alt="Cat gif" title="Cat gif" width="300">
+</p>
 
 <!--
 **Clair1234/Clair1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
