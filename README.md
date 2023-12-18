@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Python and JavaScript
+- ⚡ Fun fact: I'm currently in my Master 1 of Engineering, next year I'll specialize in Computer Intelligence for Data Analyics
 
 <!--
 **Clair1234/Clair1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
