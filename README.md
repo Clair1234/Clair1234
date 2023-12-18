@@ -1,8 +1,9 @@
-<h1 style="background-color:FF5733;"> Hi there 👋, I'm Claire </h1>
+<body style="background-color:FF5733;"> 
+  <h1>Hi there 👋, I'm Claire</h1>
+</body>
 
 ### A new developper eager to learn
 
-### Work
 - 🌱 I’m currently learning Python and JavaScript
 - ⚡ Fun fact: I'm currently in my Master 1 of Engineering, next year I'll specialize in Computer Intelligence for Data Analyics
 
