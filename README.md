@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm currently in my Master 1 of Engineering, next year I'll specialize in Computer Intelligence for Data Analyics
 
 <p align="center">
-  <img src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" alt="Cat gif" title="Cat gif" width="300">
+  <img src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" alt="Cat gif" title="Cat gif" width="200">
 </p>
 
 <!--
