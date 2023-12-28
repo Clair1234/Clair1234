@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Claire </h1>
 
-### A new developper eager to learn
+### At the beginning of a data-centric quest to master machine learning.
 
 - 🔭 I’m currently working on the CS50P course's final project
 - 🌱 I’m currently learning Python and JavaScript
