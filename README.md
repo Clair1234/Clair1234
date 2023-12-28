@@ -4,7 +4,7 @@
 ### At the beginning of a data-centric quest to master machine learning.
 
 - 🔭 I’m currently working on the CS50P course's final project
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python's PANDAS library and Jupyter Notebook
 - 💬 Ask me about movies 🎥 and music 🎧
 - ⚡ Fun fact: I'm currently in my Master 1 of Engineering, next year I'll specialize in Computer Intelligence for Data Analyics
 
